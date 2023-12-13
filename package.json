@@ -1,6 +1,6 @@
 {
   "name": "bun-lib",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "module": "main.ts",
   "main": "main.ts",
   "type": "module",
